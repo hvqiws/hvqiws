@@ -35,5 +35,5 @@
 ![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 
 
-## 📌 Projetos em destaque e contribuições
+## Projetos em destaque e contribuições
 
